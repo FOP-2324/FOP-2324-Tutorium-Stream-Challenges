@@ -3,7 +3,7 @@ package tutorium;
 import java.util.List;
 
 /**
- * The second Stream challenge of the tutorium.
+ * The third Stream challenge of the tutorium.
  * This will test {@link java.util.stream.Stream#reduce(java.util.function.BinaryOperator)}.
  *
  * @author Ruben Deisenroth
