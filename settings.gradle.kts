@@ -1,2 +1,2 @@
-rootProject.name = "FOP-2223-Tutorium-Stream-Challenges"
+rootProject.name = "FOP-2324-Tutorium-Stream-Challenges"
 
